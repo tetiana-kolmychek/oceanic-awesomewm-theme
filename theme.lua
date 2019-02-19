@@ -49,7 +49,7 @@ theme.border_marked = "#216464"
 theme.tasklist_bg_normal = "#00000000"
 theme.tasklist_bg_focus  = "#00000000"
 
-theme.taglist_bg_focus  = "#00000064"
+theme.taglist_bg_focus  = "#ccffcc33"
 
 -- There are other variable sets
 -- overriding the default one when
